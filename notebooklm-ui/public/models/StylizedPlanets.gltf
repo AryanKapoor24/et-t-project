@@ -1,0 +1,401 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.0.5eb040c7)"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 450,
+            "type": "VEC3",
+            "max": [
+                2.281873941421509,
+                0.6114259958267212,
+                2.3638100624084474
+            ],
+            "min": [
+                -2.281873941421509,
+                -0.6114259958267212,
+                -2.3638100624084474
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 450,
+            "type": "VEC3",
+            "max": [
+                0.2588077485561371,
+                0.9659289121627808,
+                0.0
+            ],
+            "min": [
+                0.2588077485561371,
+                0.9659289121627808,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 450,
+            "type": "VEC2",
+            "max": [
+                0.9993910193443298,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 2160,
+            "type": "SCALAR",
+            "max": [
+                449
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 3074,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 3074,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 3074,
+            "type": "VEC2",
+            "max": [
+                1.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.4824730157852173
+            ]
+        },
+        {
+            "bufferView": 7,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 18048,
+            "type": "SCALAR",
+            "max": [
+                3073
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 3074,
+            "type": "VEC3",
+            "max": [
+                1.8250670433044434,
+                0.32561901211738589,
+                -0.6111109852790833
+            ],
+            "min": [
+                1.10794198513031,
+                -0.39213401079177859,
+                -1.3282359838485718
+            ]
+        },
+        {
+            "bufferView": 9,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 3074,
+            "type": "VEC3",
+            "max": [
+                0.9991260170936585,
+                1.0,
+                0.9991260170936585
+            ],
+            "min": [
+                -0.9991260170936585,
+                -1.0,
+                -0.9991260170936585
+            ]
+        },
+        {
+            "bufferView": 10,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 3074,
+            "type": "VEC2",
+            "max": [
+                1.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.4824730157852173
+            ]
+        },
+        {
+            "bufferView": 11,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 18048,
+            "type": "SCALAR",
+            "max": [
+                3073
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 364160,
+            "uri": "result.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 5400,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5400,
+            "byteLength": 5400,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 10800,
+            "byteLength": 3600,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 14400,
+            "byteLength": 8640,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 23040,
+            "byteLength": 36888,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 59928,
+            "byteLength": 36888,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 96816,
+            "byteLength": 24592,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 121408,
+            "byteLength": 72192,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 193600,
+            "byteLength": 36888,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 230488,
+            "byteLength": 36888,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 267376,
+            "byteLength": 24592,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 291968,
+            "byteLength": 72192,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "DefaultMaterial",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        },
+        {
+            "name": "Rings",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        },
+        {
+            "name": "Saturn",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        },
+        {
+            "name": "MOON",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Rings_Circle.001",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 1,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Saturn_Sphere",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 2,
+                    "indices": 7,
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Moon_Sphere.004",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 3,
+                    "indices": 11,
+                    "attributes": {
+                        "POSITION": 8,
+                        "NORMAL": 9,
+                        "TEXCOORD_0": 10
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "input.obj",
+            "children": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "name": "Rings_Circle.001",
+            "mesh": 0
+        },
+        {
+            "name": "Saturn_Sphere",
+            "mesh": 1
+        },
+        {
+            "name": "Moon_Sphere.004",
+            "mesh": 2
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
